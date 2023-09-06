@@ -8,12 +8,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to "The Bush League" – where fantasy football dreams collide with questionable decision-making, and the only thing we take more seriously than our lineup choices is our collective inability to remember which season it is (maybe 9th?).</p>
-  <p></p>
   <p>Winning Big:</p>
   <p>1st Place: The coveted title of "Champion" comes with a princely sum of $600. Spend it wisely or blow it on more fantasy football memorabilia; the choice is yours.</p>
   <p>2nd Place: The "Almost Champ" position secures a respectable $250. You may not have clinched the top spot, and you're still a loser in our book, but $250 is better than nothing.</p>
   <p>3rd Place: The "Bronze Medalist" isn't left empty-handed either, pocketing a cool $150. Not bad for coming in third, but doesn't buy back the embarrassment</p>
-  <p></p>
   <p>Losing Big:</p>
   <p>Now, let's talk about the less fortunate among us—the one who finishes dead last in our league. Your punishment is a warning to avoid the cellar-dweller spot at all costs. The loser shall bear the ignominious duty of dressing up in an outfit chosen by the collective wisdom (or lack thereof) of our league members at next year's draft. Will it be a clown costume, a pink tutu, or an homage to the most embarrassing fashion trends of the past? That's for the league to decide, and we promise, it'll be a sight to behold. So, play wisely, my friends, unless you want to be the one strutting your stuff in next season's most ridiculous attire!</p>
 `;
